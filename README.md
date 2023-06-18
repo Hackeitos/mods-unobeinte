@@ -12,7 +12,7 @@ Si no quieres leer todo lo de abajo, los mods recomendados (librerias +
 rendimiento + mejoras) estan para descargar
 [aqui](https://github.com/Hackeitos/mods-unobeinte/blob/c3f5e629ee77728ea82f8494e24ef7d4248a5805/Mejoras%2BRedimiento.zip).
 Si no sabes como instalarlos, te va a tocar leer la sección de
-`Muy bien y todo, pero ¿como me instalo la wea?`.
+[`Muy bien y todo, pero ¿como me instalo la wea?`](https://github.com/Hackeitos/mods-unobeinte/tree/main#muy-bien-y-todo-pero-como-me-instalo-la-wea).
 
 ## Joder cuantos mods, ¿no?
 
